@@ -1,0 +1,11 @@
+databaseip="192.168.100.16";
+databaseuser="root";
+databasepassword=123456;
+databasename="unisky_159";
+
+
+cache_1_ip="192.168.100.9";
+cache_2_ip="192.168.100.11";
+
+equipment_ip="192.168.100.16";
+

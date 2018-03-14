@@ -1,0 +1,17 @@
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\ResolveAssemblyReference.cache
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.Form1.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.FormNum.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.FormView1.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.FormView2.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.FormView3.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.FormView4.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.FormWindow.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.Properties.Resources.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.csproj.GenerateResource.Cache
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.exe
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\obj\x86\Release\OrderPrint.pdb
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\bin\x86\Release\OrderPrint.exe
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\bin\x86\Release\OrderPrint.pdb
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\bin\x86\Release\MySql.Data.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\bin\x86\Release\NEBasic.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint\bin\x86\Release\NEBasic.pdb

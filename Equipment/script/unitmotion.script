@@ -1,0 +1,11 @@
+lifterSpeed=15000;
+
+xSpeed=10000;
+ySpeed=10000;
+
+verPushBoardSpeed=20;
+horPushBoardSpeed=20;
+throughDoorSpeed=15000;
+
+
+

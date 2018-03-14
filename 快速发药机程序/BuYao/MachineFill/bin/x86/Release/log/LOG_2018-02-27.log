@@ -1,0 +1,1792 @@
+﻿[2018-02-27 10:19:22] 用户登录：0001
+[2018-02-27 10:19:22] 登录成功
+[2018-02-27 10:19:22] 登录页--->主页面
+[2018-02-27 10:25:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:35] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1347
+[2018-02-27 10:25:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:25:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:13] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:13] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:14] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:14] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:15] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:15] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:16] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:16] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:17] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:17] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:18] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:18] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:19] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:19] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:20] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:20] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:21] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:21] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:29] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:30] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:30] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:31] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:31] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:32] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:32] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:33] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:33] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:34] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:34] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:26:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:13] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:13] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:14] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:14] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:15] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:15] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:16] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:16] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:17] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:17] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:18] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:18] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:19] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:19] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:20] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:20] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:21] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:21] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:29] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:29] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:30] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:30] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:31] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:31] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:32] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:32] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:33] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:33] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:34] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:34] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:27:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:13] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:13] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:14] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:14] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:15] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:15] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:16] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:17] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:17] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:18] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:18] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:19] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:19] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:20] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:20] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:21] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:21] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:29] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:29] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:30] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:30] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:31] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:31] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:32] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:32] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:33] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:33] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:34] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:34] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:35] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:36] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:37] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:38] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:39] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:40] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:41] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:42] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:43] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:44] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:45] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:46] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:47] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:48] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:49] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:50] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:51] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:52] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:53] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:54] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:55] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:56] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:57] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:58] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:28:59] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:00] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:01] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:02] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:03] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:04] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:05] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:06] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:07] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:08] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:09] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:10] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:11] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:12] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 10:29:12] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1347
+[2018-02-27 10:35:59] 补药单打印--->主页面
+[2018-02-27 11:15:28] 用户登录：0001
+[2018-02-27 11:15:28] 登录成功
+[2018-02-27 11:15:28] 登录页--->主页面
+[2018-02-27 11:15:53] 开始盘点：0
+[2018-02-27 11:15:53] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1347
+[2018-02-27 11:16:22] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1347
+[2018-02-27 11:16:22] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:23] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:24] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:25] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:26] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:27] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:28] System.InvalidOperationException: 队列为空。
+   在 System.Collections.Queue.Dequeue()
+   在 System.Collections.Queue.SynchronizedQueue.Dequeue()
+   在 MachineFill.FillForm.timer2_Tick(Object sender, EventArgs e) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\FillForm.cs:行号 138
+[2018-02-27 11:16:28] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1347

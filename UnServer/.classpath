@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/cfgatewayadapter.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/local_policy.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/mysql-connector-java-3.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/ognl-2.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="D:/UnServer/lib/xalan.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

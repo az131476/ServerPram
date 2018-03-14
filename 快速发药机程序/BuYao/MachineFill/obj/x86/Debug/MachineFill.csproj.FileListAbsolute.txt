@@ -1,0 +1,16 @@
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.Form1.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.Form2.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.MachineFill.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.Properties.Resources.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\MachineFill.exe
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\MachineFill.pdb
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\FastReport.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\TabSlider.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\FastReport.Bars.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\FastReport.Editor.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\FastReport.xml
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Debug\TabSlider.pdb
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.exe
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Debug\MachineFill.pdb

@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4801F172-BFBB-4369-AD49-9FDC273B8F3E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MachineFill</RootNamespace>
+    <AssemblyName>MachineFill</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>fill.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastReport, Version=1.6.17.0, Culture=neutral, PublicKeyToken=9e2f11070db1b41c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net Demo\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="NEBasic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Speech">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBatch.Designer.cs">
+      <DependentUpon>AddBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BindForm.Designer.cs">
+      <DependentUpon>BindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BnotpInfo.cs" />
+    <Compile Include="ChannelEdit.cs" />
+    <Compile Include="CoderQueue.cs" />
+    <Compile Include="DesCode.cs" />
+    <Compile Include="DrugBnotp.cs" />
+    <Compile Include="DrugEdit.cs" />
+    <Compile Include="DrugFill.cs" />
+    <Compile Include="DrugInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrugInfoForm.Designer.cs">
+      <DependentUpon>DrugInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrugViewSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrugViewSearch.Designer.cs">
+      <DependentUpon>DrugViewSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FillForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FillForm.Designer.cs">
+      <DependentUpon>FillForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FillPlan.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBnotp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBnotp.Designer.cs">
+      <DependentUpon>FormBnotp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditStock.Designer.cs">
+      <DependentUpon>FormEditStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHandFill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHandFill.Designer.cs">
+      <DependentUpon>FormHandFill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryChart.cs" />
+    <Compile Include="INIOperationClass.cs" />
+    <Compile Include="LoginCheck.cs" />
+    <Compile Include="LogInfo.cs" />
+    <Compile Include="MachineFill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachineFill.Designer.cs">
+      <DependentUpon>MachineFill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachineParam.cs" />
+    <Compile Include="MyButtonCell.cs" />
+    <Compile Include="MySqlPool.cs" />
+    <Compile Include="OutInQuery.cs" />
+    <Compile Include="Paramters.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddBatch.resx">
+      <DependentUpon>AddBatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BindForm.resx">
+      <DependentUpon>BindForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrugInfoForm.resx">
+      <DependentUpon>DrugInfoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrugViewSearch.resx">
+      <DependentUpon>DrugViewSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FillForm.resx">
+      <DependentUpon>FillForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBnotp.resx">
+      <DependentUpon>FormBnotp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditStock.resx">
+      <DependentUpon>FormEditStock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHandFill.resx">
+      <DependentUpon>FormHandFill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachineFill.resx">
+      <DependentUpon>MachineFill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockCheckForm.resx">
+      <DependentUpon>StockCheckForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockCheckForm2.resx">
+      <DependentUpon>StockCheckForm2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Rand.cs" />
+    <Compile Include="StockCheckDao.cs" />
+    <Compile Include="StockCheckForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockCheckForm.Designer.cs">
+      <DependentUpon>StockCheckForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockCheckForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockCheckForm2.Designer.cs">
+      <DependentUpon>StockCheckForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VODrugInfo.cs" />
+    <Compile Include="VOStockList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224135931-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143G5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224135932.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143611.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143517.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143149.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143533.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143344.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224135939-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\2-130224143F6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pic\login.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QQ截图20160225130745.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fill.ico" />
+    <None Include="Resources\gear17.png" />
+    <None Include="App.config" />
+    <None Include="pic\login - 副本.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

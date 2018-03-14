@@ -1,0 +1,111 @@
+beltOutDrugDoor_1=true;
+beltOutDrugDoor_2=true;
+
+readStateCode_1="AA0100000000EE";
+readStateCode_2="AA0100000000EE";
+
+beltOutDrugDoorInterval=2000;
+
+beltInterval=1300;
+
+beltdoorInterval=1200;
+
+inDrugOutTime=120;
+
+secondOutDrug=false;
+
+String checkState_1(String code){
+	if(!code.substring(6,8).equals("00")){
+		return "AA1102000000EE";
+	}
+	return "";
+}
+
+String checkState_2(String code){
+	if(!code.substring(6,8).equals("00")){
+		return "AA1102000000EE";
+	}
+	return "";
+}
+
+String getOpenCode(String side){
+	return "AA1101000000EE";
+}
+
+String getCloseCode(String side){
+	return "AA1102000000EE";
+}
+
+readOurDrugSensorCode="AA03EE";
+String checkOurDrugSensorState(String code){
+	if(code.substring(4,6).equals("01")){
+		return "31";
+	}
+
+	if(code.substring(6,8).equals("01")){
+		return "32";
+	}
+
+	if(code.substring(8,10).equals("01")){
+		return "33";
+	}
+	
+	if(code.substring(10,12).equals("01")){
+		return "34";
+	}
+ 
+
+	return "00";
+}
+
+outDrugOffsetHeight=5;
+
+rowHeight_1=40;
+rowHeight_2=40;
+rowHeight_3=135;
+rowHeight_4=235;
+rowHeight_5=475;
+rowHeight_6=615;
+rowHeight_7=745;
+rowHeight_8=865;
+rowHeight_9=990;
+rowHeight_10=1100;
+rowHeight_11=1205;
+rowHeight_12=1325;
+rowHeight_13=1435;
+rowHeight_14=1535;
+rowHeight_15=1535;
+
+drugCacheHeight_1S=1155;
+drugCacheHeight_1X=665;
+
+drugCacheHeight_2S=1155;
+drugCacheHeight_2X=665;
+
+drugCacheHeight_3G=1790;
+
+String getBeltMotionCode(String cacheNO){
+	if(cacheNO.equals("2S") || cacheNO.equals("2X")){
+		return "0000000000060106006A0001";
+
+	} 
+else if(cacheNO.equals("1S") || cacheNO.equals("1X")) {
+		return "0000000000060106006A0005";
+	}else{
+	return "0000000000060106006A0001";
+}
+}
+
+
+String getBeltOppositeMotionCode(String cacheNO){
+	if(cacheNO.equals("2S") || cacheNO.equals("2X")){
+		return "0000000000060106006A0004";
+	} 
+else if(cacheNO.equals("1S") || cacheNO.equals("1X")) {
+		return "0000000000060106006A0002";
+	} else{
+return "0000000000060106006A0004";	
+}
+}
+
+beltMotionStopCode="0000000000060106006A0000";

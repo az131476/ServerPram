@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/axis.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/axis-ant.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/buffalo-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/comm.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/ofbiz-entity.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/smslib-3.3.0b2.jar"/>
+	<classpathentry kind="lib" path="D:/Equipment/lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-3.1.11-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

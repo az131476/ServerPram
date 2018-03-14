@@ -1,0 +1,16 @@
+C:\Users\Windows100\Desktop\BuYao\MachineFill\bin\Debug\MachineFill.exe
+C:\Users\Windows100\Desktop\BuYao\MachineFill\bin\Debug\MachineFill.pdb
+C:\Users\Windows100\Desktop\BuYao\MachineFill\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows100\Desktop\BuYao\MachineFill\obj\Debug\MachineFill.Form1.resources
+C:\Users\Windows100\Desktop\BuYao\MachineFill\obj\Debug\MachineFill.Properties.Resources.resources
+C:\Users\Windows100\Desktop\BuYao\MachineFill\obj\Debug\MachineFill.csproj.GenerateResource.Cache
+C:\Users\Windows100\Desktop\BuYao\MachineFill\obj\Debug\MachineFill.exe
+C:\Users\Windows100\Desktop\BuYao\MachineFill\obj\Debug\MachineFill.pdb
+E:\NB\BuYao\MachineFill\obj\Debug\MachineFill.exe
+E:\NB\BuYao\MachineFill\obj\Debug\MachineFill.pdb
+E:\NB\BuYao\MachineFill\bin\Debug\MachineFill.exe
+E:\NB\BuYao\MachineFill\bin\Debug\MachineFill.pdb
+E:\NB\BuYao\MachineFill\obj\Debug\ResolveAssemblyReference.cache
+E:\NB\BuYao\MachineFill\obj\Debug\MachineFill.Form1.resources
+E:\NB\BuYao\MachineFill\obj\Debug\MachineFill.Properties.Resources.resources
+E:\NB\BuYao\MachineFill\obj\Debug\MachineFill.csproj.GenerateResource.Cache

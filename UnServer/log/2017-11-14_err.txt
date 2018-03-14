@@ -1,0 +1,2240 @@
+
+2017-11-14 15:40:38 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:38 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:38 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:38 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:39 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:40 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:40 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:40 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:40 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:41 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:42 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:43 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:43 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:43 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:43 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:44 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:45 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:46 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:46 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:46 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:46 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:46 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:47 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:48 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:49 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:49 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:49 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:49 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:50 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:51 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:52 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:52 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:52 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:52 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:53 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:54 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:55 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:55 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:55 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:55 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:55 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:56 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:57 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:57 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:57 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:57 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:57 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:58 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:40:59 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:00 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:01 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:01 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:01 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:01 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:02 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:03 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:04 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:04 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:04 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:04 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:05 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:06 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:07 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:07 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:07 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:07 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:08 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:09 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:10 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:10 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:10 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:10 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:11 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:12 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:13 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:13 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:13 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:13 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:14 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:15 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:16 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:16 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:16 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:16 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:16 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:17 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:18 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:19 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:19 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:19 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:19 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:19 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:79)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:20 FERROR java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:258)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at us.Modbus.executeCode(Modbus.java:101)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:20 FERROR java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1931)
+	at java.lang.String.substring(String.java:1904)
+	at us.CacheControl.run(CacheControl.java:114)
+	at java.lang.Thread.run(Thread.java:619)
+
+2017-11-14 15:41:20 FERROR java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:124)
+	at us.Modbus.executeCode(Modbus.java:78)
+	at us.CacheControl.run(CacheControl.java:112)
+	at java.lang.Thread.run(Thread.java:619)

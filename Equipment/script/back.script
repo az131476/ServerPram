@@ -1,0 +1,31 @@
+[param]
+startHor=100;
+startVer=200;
+
+inOffsetHor=317;
+
+checkOffsetHor_1=-26;
+checkOffsetHor_2=30;
+
+checkOffsetVer_1=80;
+checkOffsetVer_2=80;
+
+int checkLength_1(int len){
+	
+if(len<=1450){
+return 1450-len;
+}
+if(len>=1450){
+return 0;
+}
+}
+
+int checkLength_2(int len){
+	
+if(len<=1450){
+return 1450-len;
+}
+if(len>=1450){
+return 0;
+}
+}

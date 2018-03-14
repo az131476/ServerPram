@@ -1,0 +1,106 @@
+﻿[2017-12-07 07:50:46] 用户登录：0001
+[2017-12-07 07:50:47] 登录成功
+[2017-12-07 07:50:47] 登录页--->主页面
+[2017-12-07 07:53:11] 用户登录：0001
+[2017-12-07 07:53:11] 登录成功
+[2017-12-07 07:53:11] 登录页--->主页面
+[2017-12-07 08:02:49] 用户登录：0001
+[2017-12-07 08:02:49] 登录成功
+[2017-12-07 08:02:49] 登录页--->主页面
+[2017-12-07 08:04:40] 用户登录：0001
+[2017-12-07 08:04:40] 登录成功
+[2017-12-07 08:04:40] 登录页--->主页面
+[2017-12-07 08:10:35] 用户登录：0001
+[2017-12-07 08:10:36] 登录成功
+[2017-12-07 08:10:36] 登录页--->主页面
+[2017-12-07 08:10:45] 开始盘点：0
+[2017-12-07 08:10:45] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1159
+[2017-12-07 08:10:57] 开始盘点：0
+[2017-12-07 08:10:57] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1159
+[2017-12-07 08:13:13] 用户登录：0001
+[2017-12-07 08:13:14] 登录成功
+[2017-12-07 08:13:14] 登录页--->主页面
+[2017-12-07 08:13:20] 开始盘点：0
+[2017-12-07 08:13:20] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1160
+[2017-12-07 08:17:25] 用户登录：0001
+[2017-12-07 08:17:25] 登录成功
+[2017-12-07 08:17:25] 登录页--->主页面
+[2017-12-07 08:17:31] 开始盘点：0
+[2017-12-07 08:17:31] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 08:17:47] 开始盘点：0
+[2017-12-07 08:17:47] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 08:18:00] 开始盘点：0
+[2017-12-07 08:18:00] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 08:18:04] 开始盘点：0
+[2017-12-07 08:18:04] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 15:19:30] 用户登录：0001
+[2017-12-07 15:19:31] 登录成功
+[2017-12-07 15:19:31] 登录页--->主页面
+[2017-12-07 15:19:39] 开始盘点：0
+[2017-12-07 15:19:39] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 15:20:59] 用户登录：0001
+[2017-12-07 15:20:59] 登录成功
+[2017-12-07 15:20:59] 登录页--->主页面
+[2017-12-07 15:21:10] 开始盘点：0
+[2017-12-07 15:21:10] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 15:42:22] 用户登录：0001
+[2017-12-07 15:42:22] 登录成功
+[2017-12-07 15:42:22] 登录页--->主页面
+[2017-12-07 15:43:00] 开始盘点：0
+[2017-12-07 15:43:00] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 15:43:10] 开始盘点：0
+[2017-12-07 15:43:10] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 15:56:55] 用户登录：0001
+[2017-12-07 15:56:55] 登录成功
+[2017-12-07 15:56:55] 登录页--->主页面
+[2017-12-07 15:57:16] 开始盘点：0
+[2017-12-07 15:57:16] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1161
+[2017-12-07 18:23:07] 用户登录：0001
+[2017-12-07 18:23:07] 登录成功
+[2017-12-07 18:23:07] 登录页--->主页面
+[2017-12-07 18:23:12] 开始盘点：0
+[2017-12-07 18:23:13] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1181
+[2017-12-07 18:23:18] 开始盘点：0
+[2017-12-07 18:23:18] 指令发送失败，错误代码：System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 MachineFill.MachineFill.sendMsg(String msg) 位置 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\MachineFill.cs:行号 1181

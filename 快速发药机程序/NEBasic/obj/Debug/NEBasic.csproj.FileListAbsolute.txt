@@ -1,0 +1,5 @@
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\NEBasic\bin\Debug\NEBasic.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\NEBasic\bin\Debug\NEBasic.pdb
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\NEBasic\obj\Debug\ResolveAssemblyReference.cache
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\NEBasic\obj\Debug\NEBasic.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\NEBasic\obj\Debug\NEBasic.pdb

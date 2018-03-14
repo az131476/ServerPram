@@ -1,0 +1,334 @@
+E:\NB\BuYao\MachineFill\bin\x86\Release\MachineFill.exe
+E:\NB\BuYao\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\NB\BuYao\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.exe
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\NB\BuYao\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\NB\BuYao\MachineFill\bin\x86\Release\TabSlider.dll
+E:\NB\BuYao\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\NB\BuYao\MachineFill\bin\x86\Release\FastReport.dll
+E:\NB\BuYao\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\NB\BuYao\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\NB\BuYao\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\NB\BuYao - 副本 (2) - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\NB\BuYao - h\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\NB\BuYao - h\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\[18800]2016\[]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\[18800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+E:\360WiFi\[68800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+E:\360WiFi\[92800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.dll
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\bin\x86\Release\FastReport.xml
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+E:\360WiFi\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.xml
+D:\自有项目\[96800]2016\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.xml
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+D:\自有项目\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\MachineFill.exe
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\MachineFill.pdb
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.dll
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\NEBasic.dll
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\TabSlider.dll
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.Bars.dll
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\DotNetSpeech.dll
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.Editor.dll
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\NEBasic.pdb
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\TabSlider.pdb
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\bin\x86\Release\FastReport.xml
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.exe
+H:\[00000]2017\[50000]hc\BuYao - h - 副本 - 副本\MachineFill\obj\x86\Release\MachineFill.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\MachineFill.exe
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\MachineFill.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\NEBasic.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\FastReport.Bars.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\FastReport.Editor.dll
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\NEBasic.pdb
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\bin\x86\Release\FastReport.xml
+D:\自有项目\[00000]2017\[50000]hc\BuYao\MachineFill\obj\x86\Release\MachineFill.exe
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\ResolveAssemblyReference.cache
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.BindForm.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.DrugInfoForm.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.FillForm.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.Form1.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.Form2.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.FormBnotp.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.FormEditStock.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.FormHandFill.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.MachineFill.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.Properties.Resources.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.StockCheckForm.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.StockCheckForm2.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.csproj.GenerateResource.Cache
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.exe
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.pdb
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\MachineFill.exe
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\MachineFill.pdb
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\MySql.Data.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\FastReport.Bars.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\FastReport.Editor.dll
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\NEBasic.pdb
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\FastReport.xml
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\bin\x86\Release\MachineFill.exe.config
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.DrugViewSearch.resources
+D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\BuYao\MachineFill\obj\x86\Release\MachineFill.AddBatch.resources

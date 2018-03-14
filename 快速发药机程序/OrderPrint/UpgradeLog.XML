@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OrderPrint">
+</Property><Property Name="解决方案文件" Value="D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint.sln">
+</Property><Property Name="用户选项文件" Value="D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\OrderPrint.suo">
+</Property><Property Name="Date" Value="2017年5月13日 星期六">
+</Property><Property Name="Time" Value="上午 0:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OrderPrint.sln" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint.sln">
+</Event><Event ErrorLevel="0" Project="" Source="OrderPrint.suo" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint.suo">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\OrderPrint.csproj" Description="项目文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\OrderPrint.csproj">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\BarCodeEAN13.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\BarCodeEAN13.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\BarCode_EAN13.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\BarCode_EAN13.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\BasketStock.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\BasketStock.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Config.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Config.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\DesCode.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\DesCode.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Form1.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Form1.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Form1.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormNum.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormNum.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormNum.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormNum.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView1.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView1.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView1.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView2.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView2.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView2.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView3.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView3.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView3.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView4.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView4.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView4.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormWindow.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormWindow.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormWindow.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\INIOperationClass.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\INIOperationClass.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\MySQLPool.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\MySQLPool.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Patient.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Patient.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\PrescriptionDetl.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\PrescriptionDetl.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\PrescriptionInfo.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\PrescriptionInfo.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Program.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Program.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Properties\Settings.settings" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\Add.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\Add.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\bullet_plus.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\bullet_plus.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\page_portrait.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\page_portrait.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\book_magnify.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\book_magnify.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\query_search_finder_find_16px_511255_easyicon.net.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\query_search_finder_find_16px_511255_easyicon.net.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\Zoom_query_16px_525305_easyicon.net.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\Zoom_query_16px_525305_easyicon.net.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\bullet_magnify.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\bullet_magnify.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\pause_green.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\pause_green.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\play_green.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\play_green.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\pic\printer_mono.png" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\pic\printer_mono.png">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\a.ico" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\a.ico">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\ico1.ico" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\ico1.ico">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Form1.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Form1.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormNum.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormNum.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView1.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView1.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView2.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView2.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView3.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView3.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormView4.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormView4.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\FormWindow.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\FormWindow.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\Properties\Resources.resx" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\OrderPrint\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\OrderPrint.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="OrderPrint" Source="OrderPrint\OrderPrint.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="NEBasic" Source="..\NEBasic\NEBasic.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NEBasic.csproj" Description="项目文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\NEBasic.csproj">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NEMD5.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\NEMD5.cs">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NEDecrypt.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\NEDecrypt.cs">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NEEncrypt.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\NEEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NEIni.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\NEIni.cs">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NELog.cs" Description="文件已成功备份为 D:\文件管理\SoftProjects\vs2010\Projects\快速发药机程序\OrderPrint\Backup\NEBasic\NELog.cs">
+</Event><Event ErrorLevel="0" Project="NEBasic" Source="..\NEBasic\NEBasic.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="NEBasic" Source="..\NEBasic\NEBasic.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="OrderPrint.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="OrderPrint.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OrderPrint" Source="OrderPrint\OrderPrint.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

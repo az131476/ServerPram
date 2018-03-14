@@ -1,0 +1,33 @@
+修改视图v_f_stock  :添加state字段
+
+操作：选择数据库unisky-》选择视图-》出现右侧列表视图，选择v_f_stock 右键 选择设计视图
+
+将出现的语句用下列语句替换，然后点上方的保存。
+
+select `a`.`Drug_Code` AS `Drug_Code`,sum(ifnull(`b`.`Quantity`,0)) AS `Quantity`,`a`.`State` AS `State` from (`stock_list` `a` left join `stock_detail` `b` on((`a`.`Stock_ID` = `b`.`Stock_ID`))) where ((`a`.`Eqp_ID` = 'F1') and (`a`.`Drug_Code` > '')) group by `a`.`Stock_ID`
+
+
+
+创建三个状态视图：
+
+操作：选择unisky-》选择表-》点击上方查询-》点新建查询->将下面三段语句复制到查询编辑器处粘贴。然后点左上方的运行即可。完成后可点unisky-》视图-》出现右侧列表后会观察到多了三个视图：v_f_stock2_state0、v_f_stock2_state1、v_f_stock2_state2
+
+CREATE view v_f_stock2_state0
+AS
+select `x`.`Drug_Code` AS `Drug_Code`,`y`.`Drug_Name` AS `Drug_Name`,`y`.`Drug_Spec` AS `Drug_Spec`,`y`.`Manufactory` AS `Manufactory`,`y`.`Package_Unit` AS `Package_Unit`,`y`.`Short_Code` AS `Short_Code`,`y`.`StorageLoc` AS `StorageLoc`,`y`.`Drug_Barcode` AS `Drug_Barcode`,`y`.`Package_Length` AS `Package_Length`,`y`.`Package_Width` AS `Package_Width`,`y`.`Alarm_Stock` AS `Alarm_Stock`,`y`.`Stock_Limit` AS `Stock_Limit`,sum(`x`.`Quantity`) AS `StockQty`,sum(if(((`x`.`Quantity` - `y`.`Stock_HoldQuantity`) < 0),0,(`x`.`Quantity` - `y`.`Stock_HoldQuantity`))) AS `StockCanOutQty`,sum(if(((floor((1100 / `y`.`Package_Length`)) - `x`.`Quantity`) < 0),0,(floor((1100 / `y`.`Package_Length`)) - `x`.`Quantity`))) AS `StockFillQty`,count(1) AS `StockCount`,(count(1) * floor((1100 / `y`.`Package_Length`))) AS `StockMaxQty` from (`v_f_stock` `x` left join `drug_list` `y` on((`x`.`Drug_Code` = `y`.`Drug_Code`))) 
+where x.State='0'
+group by `x`.`Drug_Code`;
+
+
+CREATE view v_f_stock2_state1
+AS
+select `x`.`Drug_Code` AS `Drug_Code`,`y`.`Drug_Name` AS `Drug_Name`,`y`.`Drug_Spec` AS `Drug_Spec`,`y`.`Manufactory` AS `Manufactory`,`y`.`Package_Unit` AS `Package_Unit`,`y`.`Short_Code` AS `Short_Code`,`y`.`StorageLoc` AS `StorageLoc`,`y`.`Drug_Barcode` AS `Drug_Barcode`,`y`.`Package_Length` AS `Package_Length`,`y`.`Package_Width` AS `Package_Width`,`y`.`Alarm_Stock` AS `Alarm_Stock`,`y`.`Stock_Limit` AS `Stock_Limit`,sum(`x`.`Quantity`) AS `StockQty`,sum(if(((`x`.`Quantity` - `y`.`Stock_HoldQuantity`) < 0),0,(`x`.`Quantity` - `y`.`Stock_HoldQuantity`))) AS `StockCanOutQty`,sum(if(((floor((1100 / `y`.`Package_Length`)) - `x`.`Quantity`) < 0),0,(floor((1100 / `y`.`Package_Length`)) - `x`.`Quantity`))) AS `StockFillQty`,count(1) AS `StockCount`,(count(1) * floor((1100 / `y`.`Package_Length`))) AS `StockMaxQty` from (`v_f_stock` `x` left join `drug_list` `y` on((`x`.`Drug_Code` = `y`.`Drug_Code`))) 
+where x.State='1'
+group by `x`.`Drug_Code`;
+
+
+CREATE view v_f_stock2_state2
+AS
+select `x`.`Drug_Code` AS `Drug_Code`,`y`.`Drug_Name` AS `Drug_Name`,`y`.`Drug_Spec` AS `Drug_Spec`,`y`.`Manufactory` AS `Manufactory`,`y`.`Package_Unit` AS `Package_Unit`,`y`.`Short_Code` AS `Short_Code`,`y`.`StorageLoc` AS `StorageLoc`,`y`.`Drug_Barcode` AS `Drug_Barcode`,`y`.`Package_Length` AS `Package_Length`,`y`.`Package_Width` AS `Package_Width`,`y`.`Alarm_Stock` AS `Alarm_Stock`,`y`.`Stock_Limit` AS `Stock_Limit`,sum(`x`.`Quantity`) AS `StockQty`,sum(if(((`x`.`Quantity` - `y`.`Stock_HoldQuantity`) < 0),0,(`x`.`Quantity` - `y`.`Stock_HoldQuantity`))) AS `StockCanOutQty`,sum(if(((floor((1100 / `y`.`Package_Length`)) - `x`.`Quantity`) < 0),0,(floor((1100 / `y`.`Package_Length`)) - `x`.`Quantity`))) AS `StockFillQty`,count(1) AS `StockCount`,(count(1) * floor((1100 / `y`.`Package_Length`))) AS `StockMaxQty` from (`v_f_stock` `x` left join `drug_list` `y` on((`x`.`Drug_Code` = `y`.`Drug_Code`))) 
+where x.State='2'
+group by `x`.`Drug_Code`;
